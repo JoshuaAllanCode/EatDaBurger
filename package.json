@@ -11,12 +11,16 @@
     "url": "git+https://github.com/JoshuaAllanCode/EatDaBurger.git"
   },
   "keywords": [
-    "burgers"
+    "burgers",
+    "eating",
+    "burgerfi"
   ],
   "author": "Joshua Jones",
-
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaAllanCode/EatDaBurger/issues"
   },
-  "homepage": "https://github.com/JoshuaAllanCode/EatDaBurger",
+  "homepage": "https://github.com/JoshuaAllanCode/EatDaBurger#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
